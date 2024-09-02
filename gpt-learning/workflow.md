@@ -1,6 +1,3 @@
-Here's a refined version of your document:
-
----
 
 **Andrej Karpathy** published a 4-hour-long video in July 2024, explaining how to reproduce a GPT model. It took me quite some time to finish the tutorial. The first reason is that I typed the code line by line, pausing the video every few minutes, which made the process slow. More importantly, there were many details to consider, and I had to read additional documents to understand them fully.
 
